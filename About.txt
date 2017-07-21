@@ -1,0 +1,8 @@
+# this project is to learn about more about php / sql and javascript works
+
+# name : php_20_jul_2017
+# time : 12.57 PM
+# @Home
+
+# associating files:  
+# Database : mysql-> login-test
